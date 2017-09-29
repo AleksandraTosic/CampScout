@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CampScout</string>
+
+    <string name="pause">Pause Location Updates</string>
+    <string name="resume">Resume Location Updates</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="help">Welcome to CampScout! Read carefully if you encountered a problem.</string>
+</resources>
